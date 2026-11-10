@@ -1,0 +1,10 @@
+{"timestamp": "2026-10-21T17:33:48", "tabla_origen": "raw_df1", "tabla_destino": "extracted_df1", "filas_leidas": 16598, "filas_nuevas": 16598, "tipo": "full_load", "estado": "exitoso", "error": null}
+{"timestamp": "2026-10-21T18:04:50", "tabla_origen": "raw_df1", "tabla_destino": "extracted_df1", "filas_leidas": 16598, "filas_nuevas": 16598, "tipo": "full_load", "estado": "exitoso", "error": null}
+{"timestamp": "2026-10-21T18:08:09", "tabla_origen": "raw_df1", "tabla_destino": "extracted_df1", "filas_leidas": 16598, "filas_nuevas": 0, "tipo": "incremental", "estado": "exitoso", "error": null}
+{"timestamp": "2026-10-21T18:20:34", "tabla_origen": "raw_df1", "tabla_destino": "extracted_df1", "filas_leidas": 16598, "filas_nuevas": 0, "tipo": "incremental", "estado": "exitoso", "error": null}
+{"timestamp": "2026-10-21T18:48:25", "tabla_origen": "raw_df1", "tabla_destino": "extracted_df1", "filas_leidas": 16598, "filas_nuevas": 0, "tipo": "incremental", "estado": "exitoso", "error": null}
+{"timestamp": "2026-10-29T08:44:11", "tabla_origen": "raw_df1", "tabla_destino": "extracted_df1", "filas_leidas": 16598, "filas_nuevas": 0, "tipo": "incremental", "estado": "exitoso", "error": null}
+{"timestamp": "2026-10-29T08:45:07", "tabla_origen": "raw_df1", "tabla_destino": "extracted_df1", "filas_leidas": 16598, "filas_nuevas": 0, "tipo": "incremental", "estado": "exitoso", "error": null}
+{"timestamp": "2026-10-29T08:45:41", "tabla_origen": "raw_df1", "tabla_destino": "extracted_df1", "filas_leidas": 16598, "filas_nuevas": 0, "tipo": "incremental", "estado": "exitoso", "error": null}
+{"timestamp": "2026-10-29T08:49:43", "tabla_origen": "raw_df1", "tabla_destino": "extracted_df1", "filas_leidas": 16598, "filas_nuevas": 0, "tipo": "incremental", "estado": "exitoso", "error": null}
+{"timestamp": "2026-10-29T08:49:55", "tabla_origen": "raw_df1", "tabla_destino": "extracted_df1", "filas_leidas": 16598, "filas_nuevas": 0, "tipo": "incremental", "estado": "exitoso", "error": null}

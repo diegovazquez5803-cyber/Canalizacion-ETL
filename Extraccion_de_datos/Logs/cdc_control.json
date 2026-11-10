@@ -1,0 +1,10 @@
+{
+  "ultimo_batch": 2,
+  "tabla_origen": "raw_df1",
+  "tabla_destino": "extracted_df1",
+  "ultima_extraccion": "2026-10-29T08:49:55",
+  "filas_leidas": 16598,
+  "filas_nuevas": 0,
+  "filas_acumuladas": 16598,
+  "tipo": "incremental"
+}
